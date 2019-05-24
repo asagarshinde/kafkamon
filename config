@@ -1,0 +1,9 @@
+[kafka]
+brokers=localhost:32775
+
+[topics]
+create_topics_list = [
+    'name':'test',
+    'partitions' : '3',
+    'replication' : 1
+    ]

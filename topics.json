@@ -1,0 +1,14 @@
+{
+  "topics": [
+    {
+      "name" : "test",
+      "partitions" : 3,
+      "replication_factor" : 1
+    },
+    {
+      "name" : "test2",
+      "partitions" : 3,
+      "replication_factor" : 1
+    }
+  ]
+}
